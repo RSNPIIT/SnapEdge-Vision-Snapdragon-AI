@@ -37,12 +37,12 @@ By leveraging the **45 TOPS Hexagon NPU** via the **Qualcomm AI Hub** and **ONNX
 
 1. Clone repository: `git clone https://github.com/RSNPIIT/SnapEdge-Vision-Snapdragon-AI.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Launch app: `python app.py`
+3. Launch app: `python333 app.py`
 
 ---
 
 ## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the strong copyleft license of the GPLv3 License
 
 ## 👤 Author
 **Ramrup Satpati**  
